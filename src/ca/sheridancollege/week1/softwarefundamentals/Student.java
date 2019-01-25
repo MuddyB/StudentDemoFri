@@ -7,7 +7,8 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  *
- * @author mehta
+ * @author MuddyB 
+ * Date: 25th Jan 2018
  */
 public class Student {
 
